@@ -30,4 +30,9 @@ When the user taps the **Roll Dice** button, a random dice image (1–6) is disp
 
 1. `MainActivity` loads the UI using `setContent`.
 2. `DiceRollerApp()` calls `DiceWithButtonAndImage()`.
-   
+
+---
+## App Output
+<p align="center">
+  <img src="app_output2.jpeg" width="250">
+</p>
